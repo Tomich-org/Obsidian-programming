@@ -25,5 +25,23 @@
       ],
       "key": "C"
     }
+  ],
+  "obsidian-git:create-branch": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ],
+  "obsidian-git:switch-branch": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
   ]
 }
