@@ -141,14 +141,21 @@
                 "file": "Python/Основы/if-elif-else.md"
               }
             }
+          },
+          {
+            "id": "09ff8fddc057cd74",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,6 +172,7 @@
   },
   "active": "ee18ac3327641980",
   "lastOpenFiles": [
+    "README.md",
     "Excalidraw/Посмотреть позже.md",
     "Python/Основы/if-elif-else.md",
     "Python.md",
@@ -192,7 +200,6 @@
     "2023-11-23.md",
     "Python/Основы/Арифметические операции.md",
     "Python/Основы/Байты.md",
-    "Python/Основы/Битовые операции.md",
     "Web",
     "Python/Библиотеки",
     "Шаблоны",
