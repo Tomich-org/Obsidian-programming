@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "int",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 371.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,9 +172,11 @@
   },
   "active": "ee18ac3327641980",
   "lastOpenFiles": [
+    "Python/Основы/Битовые операции.md",
+    "Python/Основы/if-elif-else.md",
+    "Python/Основы/Операции сравнения.md",
     "README.md",
     "Excalidraw/Посмотреть позже.md",
-    "Python/Основы/if-elif-else.md",
     "Python.md",
     "Python/Основы/Основы.md",
     "Без названия.canvas",
@@ -198,8 +200,6 @@
     "Python/Основы/Введение в написание программ.md",
     "Шаблоны/Библиотеки python.md",
     "2023-11-23.md",
-    "Python/Основы/Арифметические операции.md",
-    "Python/Основы/Байты.md",
     "Web",
     "Python/Библиотеки",
     "Шаблоны",
