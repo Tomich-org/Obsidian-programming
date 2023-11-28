@@ -43,5 +43,21 @@
       ],
       "key": "S"
     }
+  ],
+  "obsidian-git:delete-branch": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    },
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "F"
+    }
   ]
 }
