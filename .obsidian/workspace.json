@@ -18,6 +18,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "604be49c39ed0b6f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
@@ -142,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,8 +167,8 @@
   },
   "active": "f8e1d255db75ce72",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Python/Основы/Исключения (try - except).md",
+    "conflict-files-obsidian-git.md",
     "Python/Основы/if-elif-else.md",
     "Python/Основы/Основы.md",
     "Python/Основы/Битовые операции.md",
