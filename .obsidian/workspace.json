@@ -8,26 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f8e1d255db75ce72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Основы/Исключения (try - except).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "604be49c39ed0b6f",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "075c63fc651350df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Основы/Основы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Основы/Исключения (try - except).md",
+                "file": "Python/Основы/Основы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Основы/Исключения (try - except).md",
+                "file": "Python/Основы/Основы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Основы/Исключения (try - except).md"
+                "file": "Python/Основы/Основы.md"
               }
             }
           },
@@ -165,12 +166,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f8e1d255db75ce72",
+  "active": "075c63fc651350df",
   "lastOpenFiles": [
-    "Python/Основы/Исключения (try - except).md",
+    "Python/Основы/Файлы.md",
+    "Python/Основы/Основы.md",
+    "Python/Основы/Исключения (try-except).md",
     "conflict-files-obsidian-git.md",
     "Python/Основы/if-elif-else.md",
-    "Python/Основы/Основы.md",
     "Python/Основы/Битовые операции.md",
     "Python/Основы/Операции сравнения.md",
     "README.md",
@@ -194,7 +196,6 @@
     "Python/Основы/Встроенные функции.md",
     "Шаблоны/Основы python.md",
     "Python/Основы/Циклы for и while.md",
-    "Python/Основы/Введение в написание программ.md",
     "Web",
     "Python/Библиотеки",
     "Шаблоны",
