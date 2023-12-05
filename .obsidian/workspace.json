@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Основы/Файлы.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "112972044f51ab11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Библиотеки/pickle.md",
+                "file": "Python/Библиотеки/json.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Библиотеки/pickle.md",
+                "file": "Python/Библиотеки/json.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Библиотеки/pickle.md",
+                "file": "Python/Библиотеки/json.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Библиотеки/pickle.md"
+                "file": "Python/Библиотеки/json.md"
               }
             }
           },
@@ -169,15 +156,17 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "112972044f51ab11",
+  "active": "604be49c39ed0b6f",
   "lastOpenFiles": [
-    "Python/Основы/Файлы.md",
     "Python/Библиотеки/pickle.md",
+    "Python/Библиотеки/json.md",
+    "Python/Основы/Файлы.md",
+    "Python/Основы/Исключения (try-except).md",
     "Python/Основы/Основы.md",
-    "Python/Основы/Циклы for и while.md",
-    "Python/Библиотеки/Библиотеки.md",
     "Python/Python.md",
     "Программирование.md",
+    "Python/Основы/Циклы for и while.md",
+    "Python/Библиотеки/Библиотеки.md",
     "C++/Основы/Основы.md",
     "C++/C++.md",
     "C++/Основы",
@@ -186,7 +175,6 @@
     "Excalidraw/Посмотреть позже.md",
     "Шаблоны/Библиотеки python.md",
     "Excalidraw/Drawing 2023-11-29 11.46.29.excalidraw.md",
-    "Python/Основы/Исключения (try-except).md",
     "conflict-files-obsidian-git.md",
     "Python/Основы/if-elif-else.md",
     "Python/Основы/Битовые операции.md",
@@ -200,7 +188,6 @@
     "Python/Основы/Словари(dict).md",
     "Python/Основы/Массивы (array).md",
     "Python/Основы/Кортежи (tuple).md",
-    "Python/Основы/Списки(list).md",
     "Web",
     "Python/Библиотеки",
     "Шаблоны",
