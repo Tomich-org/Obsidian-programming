@@ -20,15 +20,11 @@
             }
           },
           {
-            "id": "5d2bc5fe80d7d83f",
+            "id": "dd2f30ca815d1ab9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Основы/Лексические соглашения.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -82,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2f09d2317e496577",
@@ -98,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Основы/Лексические соглашения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Основы/Лексические соглашения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "C++/Основы/Лексические соглашения.md"
-              }
+              "state": {}
             }
           },
           {
@@ -149,9 +142,17 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "bd0e15338637988e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -169,14 +170,23 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "5d2bc5fe80d7d83f",
+  "active": "dd2f30ca815d1ab9",
   "lastOpenFiles": [
-    "C++/Основы/Лексические соглашения.md",
-    "C++/Основы/Комментарии.md",
-    "Шаблоны/Шаблон C++.md",
-    "C++/Основы/Маркеры и наборы символов.md",
-    "C++/Основы/Без названия.md",
     "C++/Основы/Оглавление.md",
+    "C++/Основы/Лексические соглашения.md",
+    "C++/Основы/Строковые и символьные литералы.md",
+    "C++/Основы/Маркеры и наборы символов.md",
+    "C++/Основы/Идентификаторы.md",
+    "C++/Основы/Символы пунктуации.md",
+    "C++/Основы/Числовые, логические и указательные литералы.md",
+    "C++/Основы/Ключевые слова.md",
+    "C++/Основы/Комментарии.md",
+    "C++/C++.md",
+    "Python/Основы/Словари(dict).md",
+    "Без названия.md",
+    "Python/Основы/Переменные и типы данных.md",
+    "Шаблоны/Шаблон C++.md",
+    "C++/Основы/Без названия.md",
     "Python/Библиотеки/json.md",
     "Шаблоны/Библиотеки python.md",
     "Шаблоны/Основы python.md",
@@ -188,18 +198,9 @@
     "Программирование.md",
     "Python/Основы/Циклы for и while.md",
     "Python/Библиотеки/Библиотеки.md",
-    "C++/C++.md",
     "C++/Основы",
     "C++",
     "Без названия.canvas",
-    "Excalidraw/Посмотреть позже.md",
-    "Excalidraw/Drawing 2023-11-29 11.46.29.excalidraw.md",
-    "conflict-files-obsidian-git.md",
-    "Python/Основы/if-elif-else.md",
-    "Python/Основы/Битовые операции.md",
-    "Python/Основы/Операции сравнения.md",
-    "README.md",
-    "Excalidraw/Drawing 2023-11-27 16.44.31.excalidraw.md",
     "Excalidraw",
     "Web",
     "Python/Библиотеки",
