@@ -8,23 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a42f19e4c2a72438",
+            "id": "9fcc41134cec6f69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bash/Основы/Команды.md",
-                "mode": "preview",
+                "file": "Docker/Команды Docker.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "80e915c350129ddb",
+            "id": "35de741dfdfe126f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Bash/Основы/Команды Bash.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bash/Основы/Команды Bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bash/Основы/Команды Bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Bash/Основы/Команды Bash.md"
+              }
             }
           },
           {
@@ -169,44 +177,47 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "80e915c350129ddb",
+  "active": "35de741dfdfe126f",
   "lastOpenFiles": [
-    "Pasted image 20240204013336.png",
-    "Bash/Основы/Что надо знать.md",
-    "Bash/Основы/Команды.md",
+    "Docker/Команды Docker.md",
+    "Docker/Общая информация.md",
+    "Docker/Docker.md",
+    "Docker/Инструкции Dockerfile/Инструкции Dockerfile.md",
+    "Docker/Инструкции Dockerfile/VOLUME.md",
+    "Docker/Инструкции Dockerfile/EXPOSE.md",
+    "Docker/Инструкции Dockerfile/ENTRYPOINT.md",
+    "Docker/Инструкции Dockerfile/ARG.md",
+    "Docker/Инструкции Dockerfile/WORKDIR.md",
+    "Docker/Инструкции Dockerfile/CMD.md",
+    "Docker/Инструкции Dockerfile/ADD.md",
+    "Docker/Инструкции Dockerfile/COPY.md",
+    "Docker/Инструкции Dockerfile/RUN.md",
+    "Docker/Инструкции Dockerfile/ENV.md",
+    "Docker/Инструкции Dockerfile/LABEL.md",
+    "Docker/Инструкции Dockerfile/FROM.md",
+    "images/Pasted image 20240205220229.png",
+    "images",
+    "Pasted image 20240205215034.png",
+    "Docker/Инструкции Dockerfile",
+    "Docker/Образы Docker.md",
+    "Программирование.md",
+    "Docker",
+    "Bash/Основы/Команды Bash.md",
     "Bash/Основы/Конвееры Bash.md",
     "Bash/Основы/Основы Bash.md",
+    "Pasted image 20240204013336.png",
+    "Bash/Основы/Что надо знать.md",
     "Bash/Основы/Перенаправление потоков Bash.md",
     "Python/Библиотеки/pickle.md",
     "Python/Библиотеки/Библиотеки.md",
     "C++/Основы/Лексические соглашения/Лексические соглашения.md",
-    "C++/Основы/Лексические соглашения/Комментарии.md",
-    "C++/Основы/Лексические соглашения/Ключевые слова.md",
-    "C++/Основы/Лексические соглашения/Идентификаторы.md",
-    "Bash/Основы/Математические операции Bash.md",
-    "Bash/Bash.md",
-    "Bash/Основы/Циклы Bash.md",
-    "Bash/Основы/Условия Bash.md",
-    "Bash/Основы/переменные Bash.md",
-    "Что прочитать.md",
     "Bash/Основы",
-    "Программирование.md",
     "Bash",
-    "C++/Основы/Основные понятия/Основные понятия.md",
-    "C++/Основы/Оглавление.md",
-    "C++/C++.md",
-    "Без названия.md",
-    "C++/Основы/Основные понятия/Дмфдгуы b кмфдгуы.md",
     "C++/Основы/Основные понятия",
     "C++/Основы/Лексические соглашения",
-    "C++/Основы/Лексические соглашения/Строковые и символьные литералы.md",
-    "C++/Основы/Лексические соглашения/Маркеры и наборы символов.md",
     "C++/Основы",
     "C++",
     "Без названия.canvas",
-    "Excalidraw",
-    "Web",
-    "Python/Библиотеки",
-    "Шаблоны"
+    "Excalidraw"
   ]
 }
