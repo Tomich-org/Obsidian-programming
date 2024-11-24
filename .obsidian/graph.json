@@ -2,57 +2,57 @@
   "collapse-filter": false,
   "search": "",
   "showTags": false,
-  "showAttachments": false,
-  "hideUnresolved": false,
+  "showAttachments": true,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Web/Django  ",
+      "query": "path:Bash  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:Python/Основы  ",
-      "color": {
-        "a": 1,
-        "rgb": 14674014
+        "rgb": 14048348
       }
     },
     {
       "query": "path:C++  ",
       "color": {
         "a": 1,
-        "rgb": 333030
+        "rgb": 14069084
       }
     },
     {
-      "query": "path:Bash  ",
+      "query": "path:Python ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:Web  ",
       "color": {
         "a": 1,
         "rgb": 6084188
       }
     },
     {
-      "query": "path:Docker  ",
+      "query": "path:DevOps  ",
       "color": {
         "a": 1,
         "rgb": 6084269
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "lineSizeMultiplier": 0.7125,
+  "collapse-forces": false,
+  "centerStrength": 1,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.2588386562181668,
+  "linkDistance": 30,
+  "scale": 0.4505081176757865,
   "close": false
 }

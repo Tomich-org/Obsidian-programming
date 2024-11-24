@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "61ba0f1ffd1ee00b",
+        "id": "16269ceaa1a6d008",
         "type": "tabs",
         "children": [
           {
-            "id": "9fcc41134cec6f69",
+            "id": "b9ebc487a2f13508",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Команды Docker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35de741dfdfe126f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bash/Основы/Команды Bash.md",
-                "mode": "source",
+                "file": "02 - DevOps/Ansible/Роли/Как писать роли Ansible.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "info",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 286.5
   },
   "right": {
     "id": "2f09d2317e496577",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bash/Основы/Команды Bash.md",
+                "file": "02 - DevOps/Ansible/Роли/Как писать роли Ansible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bash/Основы/Команды Bash.md",
+                "file": "02 - DevOps/Ansible/Роли/Как писать роли Ansible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bash/Основы/Команды Bash.md"
+                "file": "02 - DevOps/Ansible/Роли/Как писать роли Ansible.md"
               }
             }
           },
@@ -163,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 765.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,47 +164,47 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "35de741dfdfe126f",
+  "active": "b9ebc487a2f13508",
   "lastOpenFiles": [
-    "Docker/Команды Docker.md",
-    "Docker/Общая информация.md",
-    "Docker/Docker.md",
-    "Docker/Инструкции Dockerfile/Инструкции Dockerfile.md",
-    "Docker/Инструкции Dockerfile/VOLUME.md",
-    "Docker/Инструкции Dockerfile/EXPOSE.md",
-    "Docker/Инструкции Dockerfile/ENTRYPOINT.md",
-    "Docker/Инструкции Dockerfile/ARG.md",
-    "Docker/Инструкции Dockerfile/WORKDIR.md",
-    "Docker/Инструкции Dockerfile/CMD.md",
-    "Docker/Инструкции Dockerfile/ADD.md",
-    "Docker/Инструкции Dockerfile/COPY.md",
-    "Docker/Инструкции Dockerfile/RUN.md",
-    "Docker/Инструкции Dockerfile/ENV.md",
-    "Docker/Инструкции Dockerfile/LABEL.md",
-    "Docker/Инструкции Dockerfile/FROM.md",
-    "images/Pasted image 20240205220229.png",
-    "images",
+    "02 - DevOps/Ansible/Переменные/Как задавать переменные в Ansible.md",
+    "02 - DevOps/Ansible/Переменные/Как написать файл с переменными Ansible.md",
+    "02 - DevOps/Ansible/Общие понятия Ansible.md",
+    "02 - DevOps/Ansible/Ansible.md",
+    "02 - DevOps/Ansible/Шаблоны Ansible.md",
+    "02 - DevOps/Ansible/Переменные/Переменные Ansible.md",
+    "01 - C++/Основы/Оглавление.md",
+    "Компетенции.md",
+    "Литература.md",
+    "README.md",
+    "00 - Шаблоны/Шаблоны.md",
+    "00 - Шаблоны/Библиотеки python.md",
+    "03 - Python/Python.md",
+    "02 - DevOps/Ansible/Переменные",
+    "02 - DevOps/Ansible/Как работает инвентарь Ansible.md",
+    "02 - DevOps/Ansible/Роли/Роли Ansible.md",
+    "02 - DevOps/Ansible/Роли/Как писать роли Ansible.md",
+    "02 - DevOps/Ansible/Роли/Удаленное выполнение ролей Ansible.md",
+    "02 - DevOps/Docker/Общая информация.md",
+    "02 - DevOps/Linux/Закончилось место на диске.md",
+    "02 - DevOps/Linux/Процесс загрузки Linux.md",
+    "02 - DevOps/Docker/Инструкции Dockerfile/Инструкции Dockerfile.md",
+    "03 - Python/Основы/Введение в написание программ.md",
+    "02 - DevOps/Сети/iptables.md",
+    "02 - DevOps/Bash/Основы/Команды Bash.md",
+    "02 - DevOps/Bash/Основы/Команды/kill.md",
+    "02 - DevOps/Linux/Linux.md",
+    "02 - DevOps/Ansible/Роли",
+    "02 - DevOps/Bash/Основы/Команды",
+    "02 - DevOps/Ansible",
+    "02 - DevOps/Linux",
+    "DevOps/Сети/Команда ip",
+    "02 - DevOps",
+    "02 - DevOps/Сети",
+    "05 - images/Pasted image 20240205220229.png",
+    "05 - images",
     "Pasted image 20240205215034.png",
-    "Docker/Инструкции Dockerfile",
-    "Docker/Образы Docker.md",
-    "Программирование.md",
-    "Docker",
-    "Bash/Основы/Команды Bash.md",
-    "Bash/Основы/Конвееры Bash.md",
-    "Bash/Основы/Основы Bash.md",
+    "02 - DevOps/Docker/Инструкции Dockerfile",
     "Pasted image 20240204013336.png",
-    "Bash/Основы/Что надо знать.md",
-    "Bash/Основы/Перенаправление потоков Bash.md",
-    "Python/Библиотеки/pickle.md",
-    "Python/Библиотеки/Библиотеки.md",
-    "C++/Основы/Лексические соглашения/Лексические соглашения.md",
-    "Bash/Основы",
-    "Bash",
-    "C++/Основы/Основные понятия",
-    "C++/Основы/Лексические соглашения",
-    "C++/Основы",
-    "C++",
-    "Без названия.canvas",
-    "Excalidraw"
+    "Без названия.canvas"
   ]
 }
