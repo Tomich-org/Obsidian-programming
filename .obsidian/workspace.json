@@ -11,12 +11,8 @@
             "id": "b9ebc487a2f13508",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - DevOps/Ansible/Роли/Как писать роли Ansible.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - DevOps/Ansible/Роли/Как писать роли Ansible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - DevOps/Ansible/Роли/Как писать роли Ansible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02 - DevOps/Ansible/Роли/Как писать роли Ansible.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 765.5
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,35 +156,37 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "b9ebc487a2f13508",
+  "active": "09ff8fddc057cd74",
   "lastOpenFiles": [
+    "02 - DevOps/Linux/Linux.md",
+    "02 - DevOps/Bash/Основы/Команды/Команды.md",
+    "02 - DevOps/Linux/Процесс загрузки Linux.md",
+    "02 - DevOps/Docker Compose/Команды Docker Compose.md",
+    "02 - DevOps/Docker Compose/Docker Compose.md",
+    "02 - DevOps/Docker Compose/Общая информация о Docker Compose.md",
+    "02 - DevOps/Docker/Docker Compose.md",
+    "02 - DevOps/Docker Compose",
+    "02 - DevOps/Без названия.canvas",
+    "02 - DevOps/Docker/Общая информация.md",
+    "02 - DevOps/Docker/Docker.md",
+    "02 - DevOps/Bash/Основы/Команды/Команды Bash.md",
+    "02 - DevOps/Bash/Основы/Команды/kill.md",
+    "02 - DevOps/Docker/Образы Docker.md",
+    "02 - DevOps/Docker/Команды Docker.md",
+    "02 - DevOps/Docker/В чем особенность контейнеров.md",
+    "02 - DevOps/Docker/Инструкции Dockerfile/Инструкции Dockerfile.md",
     "02 - DevOps/Ansible/Переменные/Как задавать переменные в Ansible.md",
+    "02 - DevOps/Ansible/Роли/Удаленное выполнение ролей Ansible.md",
+    "02 - DevOps/Ansible/Роли/Роли Ansible.md",
+    "02 - DevOps/Ansible/Роли/Общие понятия о ролях в Ansible.md",
+    "02 - DevOps/Ansible/Роли/Как писать роли Ansible.md",
     "02 - DevOps/Ansible/Переменные/Как написать файл с переменными Ansible.md",
     "02 - DevOps/Ansible/Общие понятия Ansible.md",
     "02 - DevOps/Ansible/Ansible.md",
     "02 - DevOps/Ansible/Шаблоны Ansible.md",
     "02 - DevOps/Ansible/Переменные/Переменные Ansible.md",
     "01 - C++/Основы/Оглавление.md",
-    "Компетенции.md",
-    "Литература.md",
-    "README.md",
-    "00 - Шаблоны/Шаблоны.md",
-    "00 - Шаблоны/Библиотеки python.md",
-    "03 - Python/Python.md",
     "02 - DevOps/Ansible/Переменные",
-    "02 - DevOps/Ansible/Как работает инвентарь Ansible.md",
-    "02 - DevOps/Ansible/Роли/Роли Ansible.md",
-    "02 - DevOps/Ansible/Роли/Как писать роли Ansible.md",
-    "02 - DevOps/Ansible/Роли/Удаленное выполнение ролей Ansible.md",
-    "02 - DevOps/Docker/Общая информация.md",
-    "02 - DevOps/Linux/Закончилось место на диске.md",
-    "02 - DevOps/Linux/Процесс загрузки Linux.md",
-    "02 - DevOps/Docker/Инструкции Dockerfile/Инструкции Dockerfile.md",
-    "03 - Python/Основы/Введение в написание программ.md",
-    "02 - DevOps/Сети/iptables.md",
-    "02 - DevOps/Bash/Основы/Команды Bash.md",
-    "02 - DevOps/Bash/Основы/Команды/kill.md",
-    "02 - DevOps/Linux/Linux.md",
     "02 - DevOps/Ansible/Роли",
     "02 - DevOps/Bash/Основы/Команды",
     "02 - DevOps/Ansible",
@@ -203,7 +197,6 @@
     "05 - images/Pasted image 20240205220229.png",
     "05 - images",
     "Pasted image 20240205215034.png",
-    "02 - DevOps/Docker/Инструкции Dockerfile",
     "Pasted image 20240204013336.png",
     "Без названия.canvas"
   ]
