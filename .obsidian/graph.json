@@ -25,21 +25,21 @@
       "query": "path:Python ",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 1362967
       }
     },
     {
       "query": "path:Web  ",
       "color": {
         "a": 1,
-        "rgb": 6084188
+        "rgb": 11740094
       }
     },
     {
       "query": "path:DevOps  ",
       "color": {
         "a": 1,
-        "rgb": 6084269
+        "rgb": 1381050
       }
     }
   ],
@@ -49,10 +49,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 0.7125,
   "collapse-forces": false,
-  "centerStrength": 1,
+  "centerStrength": 0.744791666666667,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.4505081176757865,
+  "scale": 0.08317427835927702,
   "close": false
 }
