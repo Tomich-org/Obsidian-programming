@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - DevOps/Вопросы на собесе.md",
+                "file": "02 - DevOps/Подготовка к собеседованию/Вопросы на собеседовании.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вопросы на собесе"
-            }
-          },
-          {
-            "id": "caae68aca4bc6763",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - DevOps/Git/02 Работа с историей/02 Git Interactive Rebase.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02 Git Interactive Rebase"
+              "title": "Вопросы на собеседовании"
             }
           },
           {
@@ -41,30 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - DevOps/Git/02 Работа с историей/01 Git Cherry-pick.md",
-                "mode": "source",
+                "file": "02 - DevOps/Linux/LPIC-1 (exam 101)/02 LPIC 101.1 Работа с железом в Linux. Часть вторая - управление устройствами.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 Git Cherry-pick"
-            }
-          },
-          {
-            "id": "d372933369636198",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - DevOps/Linux/LPIC-1 (exam 101)/LPIC 101.1 Работа с железом в Linux. Часть первая - sysfs, devfs, udev.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LPIC 101.1 Работа с железом в Linux. Часть первая - sysfs, devfs, udev"
+              "title": "02 LPIC 101.1 Работа с железом в Linux. Часть вторая - управление устройствами"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,54 +200,54 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "09ff8fddc057cd74",
+  "active": "d3ca94b1fedd8f79",
   "lastOpenFiles": [
-    "02 - DevOps/DevOps.md",
-    "02 - DevOps/Linux/LPIC-1 (exam 101)/LPIC 101.1 Работа с железом в Linux. Часть первая - sysfs, devfs, udev.md",
-    "02 - DevOps/Git/01 Работа с HEAD/02 Относительные ссылки.md",
-    "02 - DevOps/Linux/Linux.md",
-    "02 - DevOps/Linux/Общее/Общее.md",
-    "02 - DevOps/Linux/Общее/Закончилось место на диске.md",
+    "02 - DevOps/Подготовка к собеседованию/Pipeline и IaC в TeamCity.md",
+    "02 - DevOps/Подготовка к собеседованию/Вопросы на собеседовании.md",
+    "02 - DevOps/Подготовка к собеседованию/Ansible и Terraform.md",
+    "02 - DevOps/Подготовка к собеседованию/IaC (Инфраструктура как код).md",
+    "02 - DevOps/Подготовка к собеседованию/С чего начинается непрерывная разработка (CI).md",
+    "02 - DevOps/Подготовка к собеседованию/CI и CD (непрерывная интеграция и доставка).md",
+    "02 - DevOps/Подготовка к собеседованию/Ядро в контейнерах и ВМ.md",
+    "02 - DevOps/Подготовка к собеседованию/Ограничение ресурсов контейнера.md",
+    "02 - DevOps/Подготовка к собеседованию/Виртуализация vs контейнеризация.md",
+    "02 - DevOps/Подготовка к собеседованию/Создание сертификата и шифрование сообщения.md",
+    "02 - DevOps/Подготовка к собеседованию/Валидация сертификатов.md",
+    "02 - DevOps/Подготовка к собеседованию/Шифрование данных между сервисами.md",
+    "02 - DevOps/Подготовка к собеседованию/Протоколы TCP и UDP.md",
+    "02 - DevOps/Подготовка к собеседованию/Кластеры PostgreSQL и репликация.md",
+    "02 - DevOps/Подготовка к собеседованию/Индексы в базах данных.md",
+    "02 - DevOps/Подготовка к собеседованию/Проблема при копировании файлов (нет места).md",
+    "02 - DevOps/Подготовка к собеседованию/Файл с паролями в Linux.md",
+    "02 - DevOps/Подготовка к собеседованию/Потеря доступа к серверу (root).md",
+    "02 - DevOps/Подготовка к собеседованию/Обновление ядра Linux.md",
+    "02 - DevOps/Linux/Общее/Процесс загрузки Linux.md",
+    "02 - DevOps/Подготовка к собеседованию/Утилита sysctl и файл sysctl.conf.md",
+    "02 - DevOps/Подготовка к собеседованию/Директории proc , sys , dev.md",
+    "02 - DevOps/Подготовка к собеседованию/RAID в Linux.md",
+    "02 - DevOps/Подготовка к собеседованию/Файловые системы в Linux.md",
+    "02 - DevOps/Подготовка к собеседованию/Коммуникация с коллегами.md",
+    "02 - DevOps/Подготовка к собеседованию/Использование Git.md",
+    "Использование Github",
+    "02 - DevOps/Подготовка к собеседованию",
     "02 - DevOps/Linux/Общее",
-    "02 - DevOps/Git/00 Введение/02 Ветвление в Git.md",
     "09 - images/Pasted image 20250717220134.png",
     "09 - images/Pasted image 20250717220049.png",
     "09 - images/Pasted image 20250717220010.png",
     "09 - images/Pasted image 20250717215949.png",
     "09 - images/Pasted image 20250717215929.png",
-    "02 - DevOps/Git/00 Введение/04 Git Rebase.md",
-    "02 - DevOps/Git/Тэги.md",
     "09 - images/Pasted image 20250717215021.png",
     "09 - images/Pasted image 20250717214956.png",
     "09 - images/Pasted image 20250717214711.png",
     "09 - images/Pasted image 20250717214653.png",
-    "02 - DevOps/Git/Git.md",
-    "02 - DevOps/Git/02 Работа с историей/02 Git Interactive Rebase.md",
-    "02 - DevOps/Git/01 Работа с HEAD/03 Перемещение ветки (brach forsing).md",
-    "02 - DevOps/Git/01 Работа с HEAD/04 Отмена изменений в git.md",
-    "02 - DevOps/Git/01 Работа с HEAD/01 detach HEAD.md",
-    "02 - DevOps/Git/02 Работа с историей/01 Git Cherry-pick.md",
-    "02 - DevOps/Git/02 Работа с историей/03 Жонглирование коммитами.md",
     "09 - images/Pasted image 20250717212358.png",
-    "2025-07-17.md",
-    "02 - DevOps/Linux/LPIC-1 (exam 101)/Глоссарий/Терминал.md",
-    "Excalidraw/htrythdghty.excalidraw.md",
     "Excalidraw",
-    "02 - DevOps/Linux/LPIC-1 (exam 101)/Глоссарий/Псевдотерминал.md",
-    "02 - DevOps/Git/00 Введение/03 Слияние веток в Git.md",
-    "02 - DevOps/Git/00 Введение/00 Введение.md",
-    "02 - DevOps/Git/02 Работа с историей/00 Работа с историей.md",
     "02 - DevOps/Git/02 Работа с историей",
-    "02 - DevOps/Git/01 Работа с HEAD/00 Работа с HEAD.md",
     "02 - DevOps/Git/01 Работа с HEAD",
     "images",
-    "02 - DevOps/Git/00 Введение/01 Коммиты в git.md",
     "02 - DevOps/Git/00 Введение",
     "02 - DevOps/Git",
-    "02 - DevOps/Linux/LPIC-1 (exam 101)/Глоссарий/Программная шина.md",
     "02 - DevOps/Linux/LPIC-1 (exam 101)/Глоссарий",
-    "02 - DevOps/Linux/LPIC-1 (exam 101)",
-    "05 - БД",
     "02 - DevOps/Без названия.canvas",
     "Без названия.canvas"
   ]
