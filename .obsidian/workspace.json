@@ -4,38 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "c3ac25b7ab2b788d",
+        "id": "3a7441c86bee260c",
         "type": "tabs",
         "children": [
           {
-            "id": "d3ca94b1fedd8f79",
+            "id": "507e026d22b63ab9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - DevOps/Подготовка к собеседованию/Вопросы на собеседовании.md",
+                "file": "02 - DevOps/Linux/LPIC-1 (exam 101)/03 LPIC 101.2 Процесс загрузки Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вопросы на собеседовании"
+              "title": "03 LPIC 101.2 Процесс загрузки Linux"
             }
           },
           {
-            "id": "1cb2c06f27cba5a0",
+            "id": "5f86ecf59e7fb196",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - DevOps/Linux/LPIC-1 (exam 101)/02 LPIC 101.1 Работа с железом в Linux. Часть вторая - управление устройствами.md",
-                "mode": "preview",
+                "file": "02 - DevOps/Подготовка к собеседованию/01 Вопросы на собеседовании.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 LPIC 101.1 Работа с железом в Linux. Часть вторая - управление устройствами"
+              "title": "01 Вопросы на собеседовании"
+            }
+          },
+          {
+            "id": "18ad83b0294c7ce2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 466.5
   },
   "right": {
     "id": "2f09d2317e496577",
@@ -108,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - DevOps/Linux/Почитать и ознакомиться.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Почитать и ознакомиться"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -197,37 +207,43 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "random-note:Открыть случайную заметку": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3ca94b1fedd8f79",
+  "active": "09ff8fddc057cd74",
   "lastOpenFiles": [
-    "02 - DevOps/Подготовка к собеседованию/Pipeline и IaC в TeamCity.md",
-    "02 - DevOps/Подготовка к собеседованию/Вопросы на собеседовании.md",
-    "02 - DevOps/Подготовка к собеседованию/Ansible и Terraform.md",
-    "02 - DevOps/Подготовка к собеседованию/IaC (Инфраструктура как код).md",
-    "02 - DevOps/Подготовка к собеседованию/С чего начинается непрерывная разработка (CI).md",
-    "02 - DevOps/Подготовка к собеседованию/CI и CD (непрерывная интеграция и доставка).md",
-    "02 - DevOps/Подготовка к собеседованию/Ядро в контейнерах и ВМ.md",
-    "02 - DevOps/Подготовка к собеседованию/Ограничение ресурсов контейнера.md",
+    "02 - DevOps/Подготовка к собеседованию/01 Вопросы на собеседовании.md",
+    "02 - DevOps/Подготовка к собеседованию/Построение Dockerfile.md",
+    "02 - DevOps/Подготовка к собеседованию/Что такое CI-CD.md",
+    "Что такое CI/CD.md",
+    "02 - DevOps/Подготовка к собеседованию/Что такое Docker.md",
     "02 - DevOps/Подготовка к собеседованию/Виртуализация vs контейнеризация.md",
-    "02 - DevOps/Подготовка к собеседованию/Создание сертификата и шифрование сообщения.md",
-    "02 - DevOps/Подготовка к собеседованию/Валидация сертификатов.md",
-    "02 - DevOps/Подготовка к собеседованию/Шифрование данных между сервисами.md",
-    "02 - DevOps/Подготовка к собеседованию/Протоколы TCP и UDP.md",
-    "02 - DevOps/Подготовка к собеседованию/Кластеры PostgreSQL и репликация.md",
-    "02 - DevOps/Подготовка к собеседованию/Индексы в базах данных.md",
-    "02 - DevOps/Подготовка к собеседованию/Проблема при копировании файлов (нет места).md",
-    "02 - DevOps/Подготовка к собеседованию/Файл с паролями в Linux.md",
-    "02 - DevOps/Подготовка к собеседованию/Потеря доступа к серверу (root).md",
-    "02 - DevOps/Подготовка к собеседованию/Обновление ядра Linux.md",
-    "02 - DevOps/Linux/Общее/Процесс загрузки Linux.md",
-    "02 - DevOps/Подготовка к собеседованию/Утилита sysctl и файл sysctl.conf.md",
-    "02 - DevOps/Подготовка к собеседованию/Директории proc , sys , dev.md",
-    "02 - DevOps/Подготовка к собеседованию/RAID в Linux.md",
-    "02 - DevOps/Подготовка к собеседованию/Файловые системы в Linux.md",
-    "02 - DevOps/Подготовка к собеседованию/Коммуникация с коллегами.md",
-    "02 - DevOps/Подготовка к собеседованию/Использование Git.md",
+    "02 - DevOps/Подготовка к собеседованию/Вопросы по git.md",
+    "02 - DevOps/Подготовка к собеседованию/Порядок тестирования.md",
+    "02 - DevOps/Подготовка к собеседованию/Когда использовать Ansible, Helm, Terraform.md",
+    "02 - DevOps/Подготовка к собеседованию/Пример Pipline.md",
+    "02 - DevOps/Подготовка к собеседованию/CI И CD инструменты.md",
+    "02 - DevOps/Подготовка к собеседованию/CI и CD (непрерывная интеграция и доставка).md",
+    "02 - DevOps/Linux/LPIC-1 (exam 101)/03 LPIC 101.2 Процесс загрузки Linux.md",
+    "Что такое CI",
+    "02 - DevOps/Подготовка к собеседованию/Цели и задачи DevOps.md",
+    "02 - DevOps/Подготовка к собеседованию/DevOps vs Agile.md",
+    "02 - DevOps/Подготовка к собеседованию/Что такое DevOps.md",
+    "02 - DevOps/Подготовка к собеседованию/Коды http ответа.md",
+    "02 - DevOps/Подготовка к собеседованию/web-server.md",
+    "02 - DevOps/Подготовка к собеседованию/Сетевой уровень, протокол IP, ARP, маршрутизация.md",
+    "02 - DevOps/Подготовка к собеседованию/http vs https.md",
+    "02 - DevOps/Подготовка к собеседованию/Транспортный уровень tcp-ip.md",
+    "02 - DevOps/Подготовка к собеседованию/DNS, резолв.md",
+    "02 - DevOps/Подготовка к собеседованию/Http методы.md",
+    "02 - DevOps/Подготовка к собеседованию/Ввод адреса в браузер.md",
+    "02 - DevOps/Подготовка к собеседованию/tcp-ip.md",
+    "09 - images/Pasted image 20250730204941.png",
+    "02 - DevOps/Подготовка к собеседованию/Что такое 127.0.0.1.md",
+    "02 - DevOps/Terraform",
+    "02 - DevOps/Kubernetes",
+    "09 - images/Pasted image 20250729114257.png",
     "Использование Github",
     "02 - DevOps/Подготовка к собеседованию",
     "02 - DevOps/Linux/Общее",
@@ -239,15 +255,10 @@
     "09 - images/Pasted image 20250717215021.png",
     "09 - images/Pasted image 20250717214956.png",
     "09 - images/Pasted image 20250717214711.png",
-    "09 - images/Pasted image 20250717214653.png",
-    "09 - images/Pasted image 20250717212358.png",
     "Excalidraw",
     "02 - DevOps/Git/02 Работа с историей",
     "02 - DevOps/Git/01 Работа с HEAD",
     "images",
-    "02 - DevOps/Git/00 Введение",
-    "02 - DevOps/Git",
-    "02 - DevOps/Linux/LPIC-1 (exam 101)/Глоссарий",
     "02 - DevOps/Без названия.canvas",
     "Без названия.canvas"
   ]
